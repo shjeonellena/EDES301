@@ -1,7 +1,7 @@
 # EDES301
 EDES 301 Repository
 
-# HexaForm Actuator Keyboard Test
+# HexaForm Actuator 
 
 This project provides a simple **keyboard-driven test interface** for the HexaForm prototype.  
 Using a BeagleBone and GPIO control, you can:
