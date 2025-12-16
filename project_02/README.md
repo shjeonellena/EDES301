@@ -13,7 +13,7 @@ This folder contains supporting documentation for Project 02, including:
 - The **Project 02 proposal**, outlining the design concept and system goals
 - A **mechanical block diagram** describing the overall system architecture
 - A **PDF of the finalized schematics**
-- Images of the **top and bottom layers** of the PCB layout for reference and review
+- Images of the **layers** of the PCB layout for reference and review
 
 ---
 
@@ -23,7 +23,7 @@ This folder contains the full EAGLE design files used to create the PCB:
 - **`.sch`** – Schematic files defining the electrical design
 - **`.brd`** – Board layout files defining component placement and routing
 
-#### `/EAGLE/MFG`
+#### `/EAGLE/CAM Output`
 The subfolder contains manufacturing outputs generated using **EAGLE’s default CAM settings**, including:
 - **Gerber files** for PCB fabrication
 - **Drill files** for vias and through-holes
