@@ -1,6 +1,6 @@
-# Etch-A-Sketch Lightsaber PCB Design
+# Etch-A-Sketch PCB Design
 
-This directory contains all design and manufacturing files for **Project 02**, which focuses on creating a custom printed circuit board (PCB) for the Etch-A-Sketch Lightsaber project. The board was designed to interface with a **PocketBeagle** and supports the electronics required for the implemented system.
+This directory contains all design and manufacturing files for **Project 02**, which focuses on creating a custom printed circuit board (PCB) for the Etch-A-Sketch project. The board was designed to interface with a **PocketBeagle** and supports the electronics required for the implemented system.
 
 All files necessary for **PCB fabrication, assembly, and documentation** are included in this repository.
 
